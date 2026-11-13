@@ -228,4 +228,4 @@ A camada Gold finaliza o processo de preparação dos dados do RoadVizor, transf
 
 Sua estrutura facilita o acompanhamento do desempenho dos servidores, a identificação de variações nas métricas e a disponibilização de informações para apoiar a tomada de decisões.
 
-**Projeto RoadVizor — SPTech**
+**Projeto acadêmico RoadVizor — Eduarda**
